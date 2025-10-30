@@ -36,7 +36,7 @@ requirements.txt             # Dependencies
 
 3) Configure the target app and credentials
 - Edit `settings.py`:
-  - `BASE_URL = "http://3.8.242.61"`
+  - `BASE_URL = "http://3.8.XXX.61"`
   - `USERNAME = "your-email@example.com"`
   - `PASSWORD = "your-password"`
 
